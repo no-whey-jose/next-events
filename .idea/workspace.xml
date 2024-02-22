@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfe8db16-ff86-4311-a5a8-23c4b67ecb0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/event/[...slug].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/event/[eventId].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/event/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/contact/contact-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/contact/contact-form.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home-page/featured-posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home-page/featured-posts.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home-page/hero.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home-page/hero.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout/logo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout/logo.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout/main-navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout/main-navigation.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/all-posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/all-posts.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/post-detail/post-content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/post-detail/post-content.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/post-detail/post-header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/post-detail/post-header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/post-item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/post-item.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/posts-grid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/posts-grid.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/notification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/notification.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/posts-util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/[slug].js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/getting-started-with-nextjs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/mastering-javascript.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="5rfs8u4d" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2cj3SlnQBJAE2xRDwaEToKSlaWW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jose/Documents/Coding/nextJS/next-events",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfe8db16-ff86-4311-a5a8-23c4b67ecb0f" name="Changes" comment="" />
+      <created>1708611164456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708611164456</updated>
+      <workItem from="1708611165689" duration="2486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
