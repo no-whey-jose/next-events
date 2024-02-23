@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe8db16-ff86-4311-a5a8-23c4b67ecb0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/events/event-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/events/event-list.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mock/mockEvents.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pages/event/[...slug].js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pages/event/[eventId].js" afterDir="false" />
@@ -13,29 +15,6 @@
       <change afterPath="$PROJECT_DIR$/public/images/extrovert-event.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/images/introvert-event.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/contact/contact-form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/contact/contact-form.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home-page/featured-posts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home-page/featured-posts.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home-page/hero.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home-page/hero.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/layout/layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/layout/logo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/layout/logo.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/layout/main-navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/layout/main-navigation.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/all-posts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/all-posts.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/post-detail/post-content.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/post-detail/post-content.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/post-detail/post-header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/post-detail/post-header.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/post-item.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/post-item.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/posts-grid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/posts-grid.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/notification.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/notification.module.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/posts-util.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
@@ -107,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708611164456</updated>
-      <workItem from="1708611165689" duration="3865000" />
+      <workItem from="1708611165689" duration="5700000" />
     </task>
     <servers />
   </component>
