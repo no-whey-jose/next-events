@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe8db16-ff86-4311-a5a8-23c4b67ecb0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/events/event-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/events/event-details.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/events/event-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/events/event-list.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mock/mockEvents.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pages/event/[...slug].js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pages/event/[eventId].js" afterDir="false" />
@@ -15,6 +16,7 @@
       <change afterPath="$PROJECT_DIR$/public/images/extrovert-event.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/images/introvert-event.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/events/event-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/events/event-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/posts-util.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
@@ -86,11 +88,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708611164456</updated>
-      <workItem from="1708611165689" duration="5700000" />
+      <workItem from="1708611165689" duration="6199000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

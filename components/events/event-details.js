@@ -1,4 +1,5 @@
 import Link from "next/link";
+import styles from './event-details.module.css'
 
 function EventDetails(props) {
   const { title, image, date, location, id } = props.info;
@@ -11,19 +12,19 @@ function EventDetails(props) {
   const eventLink = `/events/${id}`;
 
   return (
-    <li>
+    <li className={styles.item}>
       <img src={image} alt={image} />
-      <div>
-        <div>
+      <div className={styles.content}>
+        <div className={styles.summary}>
           <h2>{title}</h2>
-          <div>
+          <div className={styles.date}>
             <time>{readableDate}</time>
           </div>
-          <div>
+          <div className={styles.address}>
             <address>{formattedAddress}</address>
           </div>
         </div>
-        <div>
+        <div className={styles.actions}>
           <Link href={eventLink}>Explore Event</Link>
         </div>
       </div>
